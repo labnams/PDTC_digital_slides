@@ -6,8 +6,6 @@ Full code for PDTC prediction deeplearning model using histopathological digital
 - ResNet34_PDTC.ipynb : The file is the code that classified the PDTC image using the ResNet34_PDTC model. This file is for jupyter notebook.
 - AlexNet_PDTC.ipynb : The file is the code that classified the PDTC image using the AlexNet_PDTC model. This file is for jupyter notebook.
 - AlexNet-modified_PDTC.ipynb : The file is the code that classified the PDTC image using the AlexNet-modified_PDTC model. This file is for jupyter notebook.
-- .h5 : This is the file that stores the model we trained.
-- PDTC_example_toyset.npz : Example dataset created with numpy random function
 
 # Usage
 ### please refer to the annotations [model_name].ipynb in detail of each model.
