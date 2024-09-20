@@ -12,5 +12,5 @@ Full code for PDTC prediction deeplearning model using histopathological digital
 
 # Contact
 ### If you have any questions, please contact below.
-- Mr. Minjae Joo (chan7844@naver.com)
+- Mr. Minjae Joo (chan7844@gachon.ac.kr)
 - Prof. Seungyoon Nam (nams@gachon.ac.kr)
